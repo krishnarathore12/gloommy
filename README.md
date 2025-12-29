@@ -1,4 +1,3 @@
-# Gloommy
 ![landing](screenshots/landing.png)
 
 **Gloommy** is a full-stack implementation of the **Cross-modal RAG** framework (arXiv:2505.21956). It bridges the gap between retrieval and generation by decomposing complex user prompts into sub-dimensional components and using **Pareto-Optimal retrieval** to ground generative AI models (Google Gemini 2.5) in specific visual contexts.
