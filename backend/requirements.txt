@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+torch
+transformers
+numpy
+spacy
+pillow
+google-genai
+qdrant-client
