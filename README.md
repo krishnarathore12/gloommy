@@ -27,6 +27,7 @@ Following the Cross-modal RAG protocol, Gloomy employs a hybrid search strategy 
 ### 2. Asset Library & Ingestion
 ![library](screenshots/library.png)
 
+
 Easily manage your visual database. Supports bulk ingestion via ZIP files or single-shot import via URL with automatic metadata processing to facilitate sub-dimensional indexing.
 
 ### 3. Context-Aware Generation
@@ -35,7 +36,8 @@ Generates new images using **Google Gemini 2.5 Flash**, explicitly grounded by t
 
 ---
 # Demo video
-https://github.com/krishnarathore12/gloommy/blob/20dc82f23c66afc1f2103475bcd693e5df6f31b4/screenrecording-2025-12-29_21-53-51.mp4
+
+https://github.com/user-attachments/assets/befbc8b8-4be0-4c05-9733-5694f02666e6
 
 ## 🛠️ Tech Stack
 
