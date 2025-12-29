@@ -34,6 +34,8 @@ Easily manage your visual database. Supports bulk ingestion via ZIP files or sin
 Generates new images using **Google Gemini 2.5 Flash**, explicitly grounded by the style and composition of retrieved assets. The UI provides transparency by showing exactly which images were used as context (the Pareto Frontier) and which sub-query aspect they fulfill.
 
 ---
+# Demo video
+https://github.com/krishnarathore12/gloommy/blob/20dc82f23c66afc1f2103475bcd693e5df6f31b4/screenrecording-2025-12-29_21-53-51.mp4
 
 ## 🛠️ Tech Stack
 
